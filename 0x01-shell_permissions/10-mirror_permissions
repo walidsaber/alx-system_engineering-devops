@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -pfu hello olleh
+chmod -p-olleh hello
