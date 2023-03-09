@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -p hello olleh
+chmod `stat -c '%a' hello` olleh
