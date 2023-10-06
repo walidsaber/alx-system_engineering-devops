@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# script
+
+nc -l 98
