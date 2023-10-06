@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#script
+# script
 
 cp /etc/hosts ~/hosts.new
 echo "127.0.0.2		localhost" > ~/hosts.new
